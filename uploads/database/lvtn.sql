@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 19, 2016 at 04:06 PM
+-- Generation Time: Sep 22, 2016 at 04:02 AM
 -- Server version: 10.1.10-MariaDB
 -- PHP Version: 7.0.3
 
@@ -1078,7 +1078,21 @@ INSERT INTO `products` (`product_id`, `name`, `image`, `tag`, `stock_id`, `discr
 (106, 'Áo sơ mi nữ trắng', '[]', 'áo,sơ mi,nữ,trắng,công sở,white', 1, '[object Object]', '["white"]', 'S,M,L,Xl', 1, 0, 0, 200000, 200000, 4, 1, 0, 0, '2016-09-19 06:46:13', '2016-09-19 06:46:13'),
 (107, 'Áo sơ mi nữ trắng chấm bi dài tay', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_tay_dai_cham_bi_nu1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_tay_dai_cham_bi_nu1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_tay_dai_cham_bi_nu1-3.jpg"]', 'áo,sơ mi,nữ,trắng,chấm bi,đen,dài tay,công sở,black,white', 1, '[object Object]', '["black","white"]', 'S,M,L', 1, 0, 0, 190000, 190000, 4, 1, 0, 0, '2016-09-19 06:47:51', '2016-09-19 06:47:51'),
 (108, 'Áo thun nam trắng dài tay', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_trang_nam_tay_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_trang_nam_tay_dai1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_trang_nam_tay_dai1-3.jpg"]', 'áo,thun,nam,trắng,dài tay', 1, '[object Object]', '["white"]', 'M,L,XL,XXL', 1, 0, 0, 200000, 200000, 1, 1, 0, 0, '2016-09-19 06:48:48', '2016-09-19 06:48:48'),
-(109, 'Áo thun nam xám dài tay', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-3.jpg"]', 'áo,thun,nam,xám,dài tay', 1, '[object Object]', '["white"]', 'S,M,L,XL,X', 1, 0, 0, 200000, 200000, 1, 1, 0, 0, '2016-09-19 06:49:56', '2016-09-19 06:49:56');
+(109, 'Áo thun nam xám dài tay', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/Ao_thun_xam_nam_tay_dai1-3.jpg"]', 'áo,thun,nam,xám,dài tay', 1, '[object Object]', '["white"]', 'S,M,L,XL,X', 1, 0, 0, 200000, 200000, 1, 1, 0, 0, '2016-09-19 06:49:56', '2016-09-19 06:49:56'),
+(110, 'Áo sơ mi nam đen tay dài', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_dai1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_dai1-3.jpg"]', 'sơ mi,nam,đen,tay dài,công sở', 1, '[object Object]', '["black"]', 'M,L,XL,XXL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 06:25:48', '2016-09-21 06:25:48'),
+(111, 'Áo sơ mi nam họa tiết trắng', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_trang1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_trang1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_trang1-3.jpg"]', 'họa tiết,sơ mi,nam,trắng,công sở', 1, '[object Object]', '["white"]', 'M,L,XL,XXL', 1, 0, 0, 250000, 249999, 2, 1, 0, 0, '2016-09-21 06:26:55', '2016-09-21 06:26:55'),
+(112, 'Áo sơ mi nam hoạt tiết xanh', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_xanh1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_xanh1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hoa_tiet_xanh1-3.jpg"]', 'sơ mi,nam,xanh,họa tiết,công sơ', 1, '[object Object]', '["blue","gray"]', 'M,L,XL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 06:31:58', '2016-09-21 06:31:58'),
+(113, 'Áo sơ mi hồng tay dài nam', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hong_nam_tay_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hong_nam_tay_dai1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hong_nam_tay_dai1-3.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_hong_nam_tay_dai1-4.jpg"]', 'sơ mi,áo,hồng,tay dài,nam,công sở,trơn', 1, '[object Object]', '["pink"]', 'M,L,XL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 06:33:30', '2016-09-21 06:33:30'),
+(114, 'Áo sơ mi nam trắng tay dài', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_dai2-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_dai2-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_dai2-3.jpg"]', 'áo,sơ mi,trắng,tay dài,nam,công sở,hàn quốc', 1, '[object Object]', '["white"]', 'M,L,XL', 1, 0, 0, 225000, 225000, 2, 1, 0, 0, '2016-09-21 06:34:34', '2016-09-21 06:34:34'),
+(115, 'Áo thun nam tay dài trắng', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_trang1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_trang1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_trang1-3.jpg"]', 'áo,thun,nam,tay dài,trắng,trơn', 1, '[object Object]', '["white"]', 'S,M,L,XL,X', 1, 0, 0, 180000, 180000, 1, 1, 0, 0, '2016-09-21 06:41:18', '2016-09-21 06:41:18'),
+(116, 'Áo thun nam tay dài xám', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xam1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xam1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xam1-3.jpg"]', 'áo,thun,nam,tay dài,xám,trơn', 1, '[object Object]', '["gray"]', 'S,M,L,XL,X', 1, 0, 0, 190000, 190000, 1, 1, 0, 0, '2016-09-21 06:42:10', '2016-09-21 06:42:10'),
+(117, 'Áo thun nam tay dài xanh biển', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xanh_bien1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xanh_bien1-2.jpg"]', 'áo,thun,nam,tay dài,xanh biển,trơn', 1, '[object Object]', '["blue"]', 'M,L,XL', 1, 0, 0, 190000, 190000, 1, 1, 0, 0, '2016-09-21 06:44:21', '2016-09-21 06:44:21'),
+(118, 'Áo thun nam tay dài xanh dương', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xanh_den1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xanh_den1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_co_tim_nam_tay_dai_xanh_den1-3.jpg"]', 'áo,thun,nam,tay dài,xanh dương,trơn', 1, '[object Object]', '["blue"]', 'M,L,XL', 1, 0, 0, 190000, 190000, 1, 1, 0, 0, '2016-09-21 06:47:53', '2016-09-21 06:47:53'),
+(119, 'Áo sơ mi xanh lơ tay ngắn', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_lo_nam_tay_ngan1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_lo_nam_tay_ngan1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_lo_nam_tay_ngan1-3.jpg"]', 'áo,sơ mi,nam,tay ngắn,công sở,trơn', 1, '[object Object]', '["blue"]', 'M,L,XL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 07:27:12', '2016-09-21 07:27:12'),
+(120, 'Áo sơ mi đen tay ngắn', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_ngan1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_ngan1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_den_nam_tay_ngan1-3.jpg"]', 'nam,áo,sơ mi,tay ngắn,công sở,trơn,đen', 1, '[object Object]', '["black"]', 'M,L,XL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 07:29:00', '2016-09-21 07:29:00'),
+(121, 'Áo sơ mi trắng tay ngắn nam', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan3-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan3-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan3-3.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan3-4.jpg"]', 'áo,sơ mi,nam,tay ngắn,trắng,công sở', 1, '[object Object]', '["white"]', 'M,L,XL,XXL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 07:29:48', '2016-09-21 07:29:48'),
+(122, 'Áo sơ mi trắng tay ngắn nam', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan2-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan2-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_trang_nam_tay_ngan2-3.jpg"]', 'áo,sơ mi,trắng,tay ngắn,nam,công sở,trơn', 1, '[object Object]', '["white"]', 'M,L,XL,XXL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 07:30:36', '2016-09-21 07:30:36'),
+(123, 'Áo sơ mi xanh đen tay ngắn nam', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_den_nam_tay_ngan1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_den_nam_tay_ngan1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_den_nam_tay_ngan1-3.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_den_nam_tay_ngan1-4.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_somi_xanh_den_nam_tay_ngan1-5.jpg"]', 'áo,sơ mi,nam,xanh đen,tay ngắn,trơn,công sở', 1, '[object Object]', '["black"]', 'M,L,XL,XXL', 1, 0, 0, 250000, 250000, 2, 1, 0, 0, '2016-09-21 07:32:17', '2016-09-21 07:32:17');
 
 -- --------------------------------------------------------
 
@@ -1323,7 +1337,7 @@ ALTER TABLE `assets`
 -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
-  MODIFY `category_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `category_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `city_province`
 --
@@ -1333,7 +1347,7 @@ ALTER TABLE `city_province`
 -- AUTO_INCREMENT for table `comments`
 --
 ALTER TABLE `comments`
-  MODIFY `comment_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `comment_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 --
 -- AUTO_INCREMENT for table `coupons`
 --
@@ -1378,7 +1392,7 @@ ALTER TABLE `orders`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `product_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=110;
+  MODIFY `product_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=124;
 --
 -- AUTO_INCREMENT for table `stocks`
 --
