@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 24, 2016 at 12:39 PM
+-- Generation Time: Sep 25, 2016 at 07:51 PM
 -- Server version: 10.1.10-MariaDB
 -- PHP Version: 7.0.3
 
@@ -1110,7 +1110,24 @@ INSERT INTO `products` (`product_id`, `name`, `image`, `tag`, `stock_id`, `discr
 (138, 'Áo thun nam cổ tim trắng', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nam_co_tim_trang1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nam_co_tim_trang1-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nam_co_tim_trang1-3.jpg"]', 'áo,thun,nam,cổ tim,trơn,trắng,body', 1, '[object Object]', '["white"]', '150000', 1, 0, 0, 150000, 150000, 1, 1, 0, 0, '2016-09-24 03:32:50', '2016-09-24 03:32:50'),
 (139, 'Áo thun nữ cổ tim tím', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_tim_co_tim1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_tim_co_tim1-2.jpg"]', 'áo,thun,nữ,cổ tim,tím,trơn', 1, '[object Object]', '["purple"]', 'S,M,L', 1, 0, 0, 120000, 120000, 5, 1, 0, 0, '2016-09-24 03:34:08', '2016-09-24 03:34:08'),
 (140, 'Áo thun nữ cổ tim xanh chuối', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_xanh_chuoi_co_tim1-1.jpg"]', 'áo,thun,nữ,cổ tim,xanh chuối,trơn', 1, '[object Object]', '["green"]', 'S,M,L', 1, 0, 0, 120000, 120000, 5, 1, 0, 0, '2016-09-24 03:35:05', '2016-09-24 03:35:05'),
-(141, 'Đầm hoa vãi voan', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa_vai_voan_nu1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa_vai_voan_nu1-2.jpg"]', 'đầm,hoa,voan,nữ,dài', 1, '[object Object]', '["white","yellow"]', 'S,M,L', 1, 0, 0, 300000, 300000, 3, 1, 0, 0, '2016-09-24 03:36:08', '2016-09-24 03:36:08');
+(141, 'Đầm hoa vãi voan', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa_vai_voan_nu1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa_vai_voan_nu1-2.jpg"]', 'đầm,hoa,voan,nữ,dài', 1, '[object Object]', '["white","yellow"]', 'S,M,L', 1, 0, 0, 300000, 300000, 3, 1, 0, 0, '2016-09-24 03:36:08', '2016-09-24 03:36:08'),
+(142, 'Đầm hoa', '', 'đầm,hoa,nữ,họa tiết', 1, '[object Object]', '["blue","black","pink"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:13:28', '2016-09-25 10:15:50'),
+(143, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa3-1.jpg"]', 'đầm,hoa,họa tiết,nữ', 1, '[object Object]', '["blue","black","white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:17:14', '2016-09-25 10:17:14'),
+(144, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa4-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa4-2.jpg"]', 'đầm,hoa,nữ,họa tiết,trắng', 1, '[object Object]', '["blue","white","pink"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:18:39', '2016-09-25 10:18:39'),
+(145, 'Đầm hoa', '[]', 'đầm,hoa,nữ,trắng', 1, '[object Object]', '["blue","white","pink"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:21:15', '2016-09-25 10:21:15'),
+(146, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa6-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa6-2.jpg"]', 'đầm,nữ,hoa,trắng', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:22:34', '2016-09-25 10:22:34'),
+(147, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-3.jpg"]', 'đầm,hoa,họa tiết,trắng,nữ', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:23:21', '2016-09-25 10:23:21'),
+(148, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-2.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa7-3.jpg"]', 'đầm,hoa,họa tiết,trắng,nữ', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:23:21', '2016-09-25 10:23:21'),
+(149, 'Đầm hoa', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa8-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa8-2.jpg"]', 'đầm,hoa,nữ,trắng,họa tiết', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 3, 1, 0, 0, '2016-09-25 10:27:30', '2016-09-25 10:27:30'),
+(150, 'Đầm nữ đen', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa9.jpg"]', 'đầm,nữ,đen,quý phái,sang trọng,bí ẩn', 1, '[object Object]', '["black"]', 'S,M,L', 1, 0, 0, 500000, 500000, 3, 1, 0, 0, '2016-09-25 10:29:03', '2016-09-25 10:29:03'),
+(151, 'Đầm nữ hồng', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/dam_hoa10.jpg"]', 'đầm,nữ,hồng,cute,dể thương', 1, '[object Object]', '["pink"]', 'S,M,L', 1, 0, 0, 450000, 450000, 3, 1, 0, 0, '2016-09-25 10:29:44', '2016-09-25 10:29:44'),
+(152, 'Áo thun ba lỗ nữ trắng', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_ba_lo_trang1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_ba_lo_trang1-2.jpg"]', 'áo,thun,nữ,ba lỗ,trắng,họa tiết', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 150000, 150000, 5, 1, 0, 0, '2016-09-25 10:44:25', '2016-09-25 10:44:25'),
+(153, 'Áo thun nữ kẻ sọc trắng đen', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_ke_soc_trang_den1-1.jpg"]', 'áo,thun,nữ,sọc,trắng,đen', 1, '[object Object]', '["black","white"]', 'S,M,L', 1, 0, 0, 179000, 179000, 5, 1, 0, 0, '2016-09-25 10:45:07', '2016-09-25 10:45:07'),
+(154, 'Áo thun nữ họa tiết vui nhộn', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_hoa_van_vui_nhon1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_hoa_van_vui_nhon1-2.jpg"]', 'áo,thun,nữ,họa tiết,vui nhộn,trắng', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 5, 1, 0, 0, '2016-09-25 10:45:47', '2016-09-25 10:45:47'),
+(155, 'Áo thun nữ họa tiết vui nhộn', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_hoa_van_vui_nhon2-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_hoa_van_vui_nhon2-2.jpg"]', 'áo,thun,nữ,họa tiết,vui nhộn,trắng', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 5, 1, 0, 0, '2016-09-25 10:46:34', '2016-09-25 10:46:34'),
+(156, 'Áo thun nữ trắng kẻ sọc đen', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_ke_soc_den1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang_ke_soc_den1-2.jpg"]', 'áo,thun,nữ,trắng,kẻ sọc,đen', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 200000, 200000, 5, 1, 0, 0, '2016-09-25 10:47:18', '2016-09-25 10:47:18'),
+(157, 'Áo thun nữ trắng họa tiết đen', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_trang1-2.jpg"]', 'áo,thun,nữ,trắng,họa tiết,đen', 1, '[object Object]', '["white"]', 'S,M,L', 1, 0, 0, 190000, 190000, 5, 1, 0, 0, '2016-09-25 10:47:52', '2016-09-25 10:47:52'),
+(158, 'Áo thun nữ xám dài tay', '["https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_xam_dai1-1.jpg","https:\\/\\/nhomthucteao.github.io\\/uploads\\/ao_thun_nu_xam_dai1-2.jpg"]', 'áo,thun,nữ,xám,dài tay', 1, '[object Object]', '["gray"]', 'S,M,L,XL', 1, 0, 0, 200000, 200000, 5, 1, 0, 0, '2016-09-25 10:48:32', '2016-09-25 10:48:32');
 
 -- --------------------------------------------------------
 
@@ -1410,7 +1427,7 @@ ALTER TABLE `orders`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `product_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=142;
+  MODIFY `product_id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=159;
 --
 -- AUTO_INCREMENT for table `stocks`
 --
